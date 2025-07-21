@@ -1,0 +1,501 @@
+Beach,Weather,Crowd_Level,Tide,Hazard,Safety
+Sinquerim,Stormy,Low,Low,Sharp Rocks,Red
+Sinquerim,Sunny,Medium,Low,Jellyfish,Yellow
+Betalbatim,Rainy,High,Low,None,Yellow
+Hollant,Sunny,Low,Low,None,Green
+Galgibaga,Sunny,High,High,Jellyfish,Yellow
+Sinquerim,Rainy,High,High,None,Yellow
+Colomb,Sunny,Medium,High,None,Green
+Butterfly,Sunny,High,High,Jellyfish,Yellow
+Betalbatim,Sunny,Medium,Low,None,Green
+Sinquerim,Stormy,Low,Low,None,Red
+Patnem,Rainy,Medium,Low,None,Yellow
+Patnem,Sunny,Medium,Low,None,Green
+Calangute,Rainy,Medium,Low,None,Yellow
+Colomb,Rainy,Medium,High,Jellyfish,Red
+Agonda,Cloudy,Medium,Low,None,Green
+Arambol,Rainy,Low,High,Jellyfish,Red
+Varca,Sunny,Low,High,None,Green
+Arambol,Sunny,Low,High,None,Green
+Querim,Sunny,Medium,High,Strong Currents,Red
+Vagator,Rainy,Low,Low,Strong Currents,Red
+Talpona,Rainy,Medium,High,None,Yellow
+Arambol,Cloudy,Low,High,Sharp Rocks,Yellow
+Cavelossim,Sunny,Low,High,None,Green
+Miramar,Sunny,High,Low,Jellyfish,Yellow
+Talpona,Cloudy,Medium,Low,None,Green
+Cavelossim,Sunny,High,Low,None,Yellow
+Patnem,Sunny,High,High,None,Yellow
+Benaulim,Sunny,Medium,Low,Jellyfish,Yellow
+Cavelossim,Rainy,Medium,Low,None,Yellow
+Arambol,Sunny,Medium,Low,None,Green
+Querim,Cloudy,Low,Low,None,Green
+Colva,Cloudy,Low,Low,None,Green
+Majorda,Sunny,Medium,High,None,Green
+Anjuna,Sunny,Low,Low,None,Green
+Galgibaga,Sunny,Medium,High,Sharp Rocks,Yellow
+Butterfly,Sunny,High,High,None,Yellow
+Galgibaga,Sunny,Low,Low,Strong Currents,Red
+Agonda,Rainy,Medium,High,None,Yellow
+Ashwem,Rainy,Medium,Low,None,Yellow
+Kakolem,Sunny,High,Low,None,Yellow
+Chapora,Cloudy,Low,High,Strong Currents,Red
+Calangute,Sunny,Low,Low,None,Green
+Querim,Rainy,High,High,None,Yellow
+Vagator,Rainy,High,Low,None,Yellow
+Palolem,Sunny,Medium,Low,Jellyfish,Yellow
+Majorda,Rainy,Medium,Low,None,Yellow
+Querim,Sunny,Medium,High,None,Green
+Calangute,Rainy,High,High,None,Yellow
+Talpona,Sunny,Low,High,None,Green
+Arambol,Sunny,Low,High,Jellyfish,Yellow
+Chapora,Rainy,Low,High,None,Yellow
+Querim,Sunny,Low,Low,None,Green
+Querim,Stormy,Medium,Low,Jellyfish,Red
+Palolem,Rainy,Low,Low,None,Yellow
+Bogmalo,Rainy,High,High,Strong Currents,Red
+Colva,Rainy,Low,High,None,Yellow
+Agonda,Stormy,Medium,Low,None,Red
+Morjim,Sunny,High,Low,None,Yellow
+Majorda,Sunny,Low,Low,Jellyfish,Yellow
+Butterfly,Stormy,Medium,High,None,Red
+Kakolem,Rainy,Low,Low,Jellyfish,Red
+Hollant,Rainy,Low,High,None,Yellow
+Calangute,Sunny,High,High,None,Yellow
+Mobor,Sunny,Medium,High,None,Green
+Galgibaga,Sunny,Low,High,Jellyfish,Yellow
+Vagator,Rainy,High,High,None,Yellow
+Arambol,Stormy,Low,High,Jellyfish,Red
+Palolem,Sunny,Medium,High,Strong Currents,Red
+Bogmalo,Rainy,Low,Low,None,Yellow
+Candolim,Rainy,Low,Low,None,Yellow
+Morjim,Sunny,Low,Low,Strong Currents,Red
+Mobor,Stormy,Low,Low,None,Red
+Majorda,Cloudy,High,High,None,Yellow
+Mandrem,Sunny,Medium,Low,None,Green
+Arambol,Rainy,Medium,Low,None,Yellow
+Candolim,Sunny,Medium,Low,None,Green
+Majorda,Stormy,Low,Low,Strong Currents,Red
+Majorda,Sunny,Low,Low,Strong Currents,Red
+Butterfly,Sunny,Medium,Low,None,Green
+Patnem,Rainy,Low,High,Jellyfish,Red
+Ashwem,Rainy,Medium,Low,Sharp Rocks,Red
+Colva,Sunny,High,High,None,Yellow
+Hollant,Cloudy,Medium,High,Jellyfish,Yellow
+Colva,Cloudy,High,Low,Jellyfish,Yellow
+Benaulim,Rainy,Medium,High,None,Yellow
+Agonda,Sunny,Low,Low,None,Green
+Chapora,Rainy,Low,High,Strong Currents,Red
+Querim,Cloudy,Low,High,None,Green
+Vagator,Sunny,Medium,High,Sharp Rocks,Yellow
+Arambol,Sunny,Medium,Low,Jellyfish,Yellow
+Arambol,Sunny,Medium,High,Sharp Rocks,Yellow
+Ashwem,Sunny,High,High,None,Yellow
+Varca,Rainy,Low,High,None,Yellow
+Calangute,Sunny,High,Low,None,Yellow
+Calangute,Cloudy,Medium,Low,None,Green
+Mandrem,Sunny,Low,High,None,Green
+Agonda,Sunny,High,Low,None,Yellow
+Majorda,Stormy,Medium,High,None,Red
+Miramar,Sunny,Medium,Low,None,Green
+Talpona,Rainy,Low,Low,None,Yellow
+Patnem,Sunny,High,High,Strong Currents,Red
+Chapora,Rainy,High,Low,None,Yellow
+Bogmalo,Stormy,Low,Low,None,Red
+Colomb,Cloudy,Medium,High,Sharp Rocks,Yellow
+Morjim,Cloudy,Medium,Low,None,Green
+Chapora,Sunny,Low,Low,None,Green
+Majorda,Rainy,Medium,Low,None,Yellow
+Chapora,Cloudy,Low,High,Jellyfish,Yellow
+Candolim,Rainy,Medium,Low,None,Yellow
+Mobor,Sunny,Low,High,Sharp Rocks,Yellow
+Mobor,Cloudy,Medium,High,Strong Currents,Red
+Vagator,Cloudy,Medium,High,None,Green
+Ashwem,Sunny,Medium,Low,None,Green
+Candolim,Rainy,Medium,Low,None,Yellow
+Cavelossim,Rainy,High,High,None,Yellow
+Ashwem,Stormy,High,High,None,Red
+Anjuna,Sunny,Low,Low,None,Green
+Betalbatim,Cloudy,High,High,None,Yellow
+Varca,Rainy,Medium,High,None,Yellow
+Candolim,Sunny,Medium,High,Sharp Rocks,Yellow
+Kakolem,Cloudy,High,High,None,Yellow
+Candolim,Stormy,Medium,High,Glass,Red
+Vagator,Cloudy,Low,Low,Glass,Red
+Hollant,Rainy,Medium,High,None,Yellow
+Betalbatim,Cloudy,Low,High,None,Green
+Kakolem,Sunny,Low,High,None,Green
+Patnem,Sunny,Low,Low,None,Green
+Galgibaga,Stormy,Medium,Low,None,Red
+Galgibaga,Sunny,Medium,Low,Jellyfish,Yellow
+Mandrem,Stormy,Low,Low,None,Red
+Patnem,Sunny,Medium,Low,None,Green
+Talpona,Cloudy,Low,High,Jellyfish,Yellow
+Ashwem,Sunny,Medium,High,None,Green
+Bogmalo,Cloudy,Medium,Low,Glass,Red
+Kakolem,Stormy,High,Low,None,Red
+Mobor,Sunny,Medium,Low,None,Green
+Miramar,Sunny,Medium,Low,Glass,Red
+Vagator,Sunny,Low,Low,Sharp Rocks,Yellow
+Chapora,Rainy,Low,Low,None,Yellow
+Kakolem,Sunny,Medium,Low,None,Green
+Cavelossim,Sunny,Medium,Low,None,Green
+Betalbatim,Sunny,Low,Low,None,Green
+Palolem,Sunny,Medium,Low,Glass,Red
+Benaulim,Stormy,Medium,Low,None,Red
+Miramar,Rainy,Medium,High,Glass,Red
+Arambol,Sunny,Low,Low,None,Green
+Kakolem,Stormy,Medium,Low,Jellyfish,Red
+Calangute,Sunny,High,High,None,Yellow
+Colomb,Sunny,Medium,Low,None,Green
+Arambol,Cloudy,Low,Low,None,Green
+Bogmalo,Sunny,Medium,High,None,Green
+Anjuna,Sunny,Medium,High,None,Green
+Ashwem,Cloudy,High,High,Jellyfish,Yellow
+Calangute,Cloudy,Medium,High,None,Green
+Majorda,Stormy,Low,Low,None,Red
+Hollant,Sunny,Medium,High,None,Green
+Varca,Sunny,Low,High,Glass,Red
+Hollant,Rainy,Medium,Low,None,Yellow
+Palolem,Sunny,Low,Low,None,Green
+Morjim,Cloudy,Medium,High,None,Green
+Majorda,Sunny,Medium,Low,Glass,Red
+Colva,Sunny,Low,High,None,Green
+Miramar,Sunny,Medium,High,Jellyfish,Yellow
+Agonda,Stormy,High,Low,None,Red
+Palolem,Rainy,Medium,High,None,Yellow
+Mandrem,Sunny,Medium,High,None,Green
+Agonda,Cloudy,Medium,High,Glass,Red
+Chapora,Stormy,Medium,Low,Jellyfish,Red
+Betalbatim,Sunny,Medium,High,None,Green
+Hollant,Sunny,Low,Low,None,Green
+Galgibaga,Sunny,Medium,Low,Jellyfish,Yellow
+Hollant,Sunny,Medium,High,None,Green
+Arambol,Rainy,High,Low,None,Yellow
+Candolim,Sunny,Medium,Low,Strong Currents,Red
+Patnem,Sunny,Medium,Low,None,Green
+Candolim,Stormy,High,High,Sharp Rocks,Red
+Hollant,Cloudy,Low,High,Strong Currents,Red
+Querim,Sunny,Medium,Low,None,Green
+Patnem,Sunny,Medium,Low,Sharp Rocks,Yellow
+Palolem,Stormy,Medium,High,None,Red
+Mobor,Rainy,High,Low,Sharp Rocks,Red
+Baga,Rainy,Medium,High,Jellyfish,Red
+Sinquerim,Cloudy,High,High,Sharp Rocks,Yellow
+Candolim,Cloudy,Medium,Low,None,Green
+Arambol,Cloudy,High,High,None,Yellow
+Anjuna,Cloudy,Medium,High,None,Green
+Vagator,Rainy,Medium,High,None,Yellow
+Benaulim,Sunny,Low,Low,None,Green
+Colva,Stormy,High,Low,None,Red
+Chapora,Stormy,Medium,Low,None,Red
+Hollant,Cloudy,Low,High,None,Green
+Talpona,Cloudy,Medium,Low,None,Green
+Miramar,Stormy,High,High,None,Red
+Patnem,Rainy,Medium,Low,None,Yellow
+Palolem,Rainy,Medium,Low,None,Yellow
+Palolem,Stormy,High,Low,None,Red
+Betalbatim,Sunny,Medium,High,None,Green
+Mandrem,Rainy,Medium,Low,None,Yellow
+Morjim,Stormy,Low,Low,None,Red
+Talpona,Cloudy,Low,High,Jellyfish,Yellow
+Vagator,Cloudy,Low,Low,Sharp Rocks,Yellow
+Sinquerim,Sunny,Medium,High,Sharp Rocks,Yellow
+Palolem,Rainy,Medium,High,None,Yellow
+Querim,Sunny,Low,High,None,Green
+Calangute,Sunny,High,High,None,Yellow
+Benaulim,Sunny,Medium,High,None,Green
+Mobor,Cloudy,Low,Low,None,Green
+Varca,Cloudy,Low,Low,None,Green
+Talpona,Stormy,Low,Low,None,Red
+Calangute,Sunny,Medium,High,Jellyfish,Yellow
+Majorda,Rainy,Medium,Low,None,Yellow
+Colomb,Rainy,Medium,Low,None,Yellow
+Palolem,Sunny,Low,Low,Sharp Rocks,Yellow
+Varca,Sunny,Medium,High,None,Green
+Majorda,Rainy,Low,High,None,Yellow
+Betalbatim,Sunny,Medium,Low,None,Green
+Morjim,Sunny,High,High,None,Yellow
+Palolem,Rainy,Medium,Low,None,Yellow
+Calangute,Sunny,Low,High,None,Green
+Vagator,Sunny,Medium,High,None,Green
+Colva,Sunny,Medium,Low,None,Green
+Cavelossim,Sunny,Medium,Low,Jellyfish,Yellow
+Cavelossim,Rainy,High,Low,None,Yellow
+Agonda,Sunny,Medium,High,Sharp Rocks,Yellow
+Baga,Stormy,High,High,Strong Currents,Red
+Hollant,Sunny,Medium,High,Jellyfish,Yellow
+Betalbatim,Sunny,High,Low,None,Yellow
+Benaulim,Sunny,Low,Low,Strong Currents,Red
+Bogmalo,Stormy,Medium,High,Jellyfish,Red
+Colva,Rainy,Low,High,None,Yellow
+Candolim,Rainy,High,High,None,Yellow
+Varca,Rainy,High,High,None,Yellow
+Hollant,Sunny,High,High,None,Yellow
+Mandrem,Stormy,Low,High,None,Red
+Querim,Sunny,Low,High,Jellyfish,Yellow
+Talpona,Cloudy,Medium,Low,Glass,Red
+Kakolem,Cloudy,Medium,High,None,Green
+Candolim,Sunny,Low,High,Jellyfish,Yellow
+Arambol,Stormy,Medium,Low,None,Red
+Colomb,Rainy,Medium,Low,Jellyfish,Red
+Querim,Sunny,Medium,High,None,Green
+Chapora,Rainy,Medium,Low,None,Yellow
+Betalbatim,Stormy,Medium,Low,None,Red
+Palolem,Sunny,High,High,Jellyfish,Yellow
+Hollant,Rainy,High,High,None,Yellow
+Arambol,Sunny,High,Low,Strong Currents,Red
+Morjim,Cloudy,Medium,High,None,Green
+Varca,Rainy,Low,Low,None,Yellow
+Benaulim,Stormy,High,High,Sharp Rocks,Red
+Patnem,Stormy,Medium,High,None,Red
+Mobor,Cloudy,High,High,None,Yellow
+Palolem,Sunny,Medium,Low,None,Green
+Palolem,Cloudy,Medium,High,Sharp Rocks,Yellow
+Palolem,Sunny,Medium,High,None,Green
+Betalbatim,Stormy,Medium,Low,None,Red
+Talpona,Cloudy,Medium,Low,Sharp Rocks,Yellow
+Miramar,Sunny,Medium,High,None,Green
+Querim,Sunny,Low,Low,None,Green
+Vagator,Sunny,Medium,Low,None,Green
+Hollant,Cloudy,Medium,Low,None,Green
+Anjuna,Stormy,High,Low,Sharp Rocks,Red
+Majorda,Sunny,High,Low,None,Yellow
+Ashwem,Rainy,High,High,None,Yellow
+Galgibaga,Sunny,Low,Low,None,Green
+Morjim,Rainy,High,High,None,Yellow
+Talpona,Rainy,Medium,Low,None,Yellow
+Bogmalo,Sunny,Low,Low,None,Green
+Talpona,Sunny,Medium,High,Jellyfish,Yellow
+Mobor,Sunny,Medium,High,None,Green
+Candolim,Stormy,Low,Low,None,Red
+Chapora,Cloudy,High,Low,None,Yellow
+Agonda,Cloudy,Medium,High,None,Green
+Arambol,Rainy,Low,Low,None,Yellow
+Benaulim,Sunny,Low,High,None,Green
+Candolim,Cloudy,Medium,Low,Jellyfish,Yellow
+Palolem,Cloudy,Low,Low,Sharp Rocks,Yellow
+Querim,Rainy,Medium,Low,Glass,Red
+Colva,Stormy,Medium,Low,Jellyfish,Red
+Majorda,Sunny,High,Low,None,Yellow
+Bogmalo,Sunny,Medium,High,None,Green
+Chapora,Cloudy,Low,Low,Jellyfish,Yellow
+Candolim,Sunny,Low,Low,None,Green
+Varca,Sunny,Low,Low,None,Green
+Baga,Cloudy,Low,High,None,Green
+Majorda,Sunny,Medium,High,None,Green
+Talpona,Rainy,Low,High,None,Yellow
+Vagator,Stormy,Medium,High,Sharp Rocks,Red
+Cavelossim,Cloudy,Low,High,None,Green
+Betalbatim,Sunny,Medium,High,None,Green
+Anjuna,Sunny,Low,Low,None,Green
+Miramar,Sunny,Medium,High,Sharp Rocks,Yellow
+Varca,Rainy,Medium,Low,Sharp Rocks,Red
+Talpona,Rainy,Medium,High,Jellyfish,Red
+Mobor,Sunny,Medium,High,None,Green
+Majorda,Cloudy,Medium,Low,None,Green
+Miramar,Rainy,High,Low,None,Yellow
+Vagator,Cloudy,Medium,Low,None,Green
+Chapora,Sunny,Medium,Low,None,Green
+Majorda,Cloudy,Medium,High,None,Green
+Hollant,Sunny,Low,Low,None,Green
+Sinquerim,Sunny,Low,Low,None,Green
+Arambol,Sunny,Medium,High,None,Green
+Miramar,Sunny,Medium,Low,None,Green
+Querim,Rainy,High,Low,None,Yellow
+Mobor,Sunny,Medium,High,Jellyfish,Yellow
+Mobor,Sunny,Medium,High,Strong Currents,Red
+Colva,Sunny,Low,Low,None,Green
+Kakolem,Cloudy,High,Low,None,Yellow
+Patnem,Sunny,Medium,Low,None,Green
+Patnem,Sunny,Low,Low,None,Green
+Morjim,Sunny,High,High,Glass,Red
+Candolim,Rainy,Low,Low,None,Yellow
+Kakolem,Sunny,Low,Low,None,Green
+Bogmalo,Sunny,Low,Low,None,Green
+Hollant,Sunny,Low,Low,None,Green
+Cavelossim,Sunny,Medium,High,Sharp Rocks,Yellow
+Mandrem,Sunny,Low,Low,Sharp Rocks,Yellow
+Ashwem,Sunny,Medium,Low,Sharp Rocks,Yellow
+Miramar,Sunny,Medium,Low,None,Green
+Galgibaga,Rainy,Medium,High,None,Yellow
+Miramar,Stormy,Low,Low,None,Red
+Patnem,Stormy,Medium,High,None,Red
+Ashwem,Cloudy,Medium,High,None,Green
+Kakolem,Sunny,Medium,High,None,Green
+Patnem,Cloudy,Medium,High,None,Green
+Hollant,Sunny,Low,Low,Sharp Rocks,Yellow
+Kakolem,Cloudy,Low,High,None,Green
+Calangute,Sunny,Medium,Low,Strong Currents,Red
+Galgibaga,Sunny,Medium,High,Sharp Rocks,Yellow
+Mandrem,Sunny,Medium,High,None,Green
+Anjuna,Stormy,Medium,Low,Jellyfish,Red
+Bogmalo,Cloudy,Low,High,None,Green
+Benaulim,Stormy,Medium,Low,None,Red
+Bogmalo,Cloudy,Medium,Low,None,Green
+Sinquerim,Rainy,High,Low,None,Yellow
+Colomb,Stormy,Medium,Low,None,Red
+Palolem,Cloudy,High,Low,None,Yellow
+Kakolem,Stormy,Medium,High,Glass,Red
+Cavelossim,Sunny,Medium,Low,Jellyfish,Yellow
+Miramar,Sunny,Low,Low,None,Green
+Galgibaga,Sunny,Medium,Low,None,Green
+Palolem,Rainy,Low,High,None,Yellow
+Baga,Rainy,Low,Low,Strong Currents,Red
+Varca,Sunny,Medium,Low,None,Green
+Majorda,Sunny,Low,Low,None,Green
+Baga,Sunny,High,High,None,Yellow
+Galgibaga,Sunny,High,Low,None,Yellow
+Miramar,Rainy,Low,Low,None,Yellow
+Galgibaga,Stormy,High,High,Sharp Rocks,Red
+Querim,Rainy,Medium,High,None,Yellow
+Majorda,Sunny,Low,Low,Strong Currents,Red
+Talpona,Cloudy,Medium,High,None,Green
+Colva,Sunny,Medium,Low,None,Green
+Colomb,Cloudy,Medium,Low,None,Green
+Calangute,Stormy,Medium,High,None,Red
+Hollant,Rainy,Low,Low,None,Yellow
+Sinquerim,Sunny,Low,Low,None,Green
+Majorda,Stormy,Medium,High,None,Red
+Querim,Sunny,High,High,None,Yellow
+Patnem,Cloudy,Medium,High,None,Green
+Querim,Sunny,Low,Low,Sharp Rocks,Yellow
+Betalbatim,Cloudy,Low,Low,Strong Currents,Red
+Calangute,Sunny,Medium,High,None,Green
+Colomb,Cloudy,Medium,High,None,Green
+Varca,Cloudy,Medium,Low,None,Green
+Vagator,Sunny,Medium,Low,None,Green
+Agonda,Sunny,Medium,High,None,Green
+Cavelossim,Sunny,High,High,None,Yellow
+Querim,Cloudy,Medium,Low,None,Green
+Hollant,Sunny,Low,High,None,Green
+Patnem,Sunny,Medium,Low,None,Green
+Hollant,Sunny,High,Low,Jellyfish,Yellow
+Ashwem,Sunny,Low,High,None,Green
+Galgibaga,Sunny,High,Low,None,Yellow
+Morjim,Cloudy,High,High,Glass,Red
+Cavelossim,Stormy,Low,High,Sharp Rocks,Red
+Chapora,Sunny,Medium,Low,None,Green
+Mandrem,Cloudy,Medium,Low,None,Green
+Miramar,Sunny,Medium,Low,None,Green
+Bogmalo,Rainy,Medium,High,Sharp Rocks,Red
+Anjuna,Sunny,Low,Low,Glass,Red
+Mobor,Rainy,Medium,High,None,Yellow
+Mobor,Rainy,High,High,None,Yellow
+Talpona,Sunny,Medium,Low,Jellyfish,Yellow
+Colva,Sunny,Low,Low,Jellyfish,Yellow
+Benaulim,Cloudy,Low,Low,None,Green
+Querim,Sunny,Low,Low,Glass,Red
+Vagator,Rainy,Medium,High,None,Yellow
+Palolem,Cloudy,Medium,High,None,Green
+Benaulim,Sunny,Medium,High,Strong Currents,Red
+Mobor,Sunny,High,High,None,Yellow
+Mandrem,Rainy,Medium,High,Sharp Rocks,Red
+Vagator,Cloudy,Medium,Low,None,Green
+Galgibaga,Sunny,Medium,Low,None,Green
+Cavelossim,Cloudy,High,High,None,Yellow
+Palolem,Sunny,Low,Low,None,Green
+Cavelossim,Stormy,Medium,Low,None,Red
+Patnem,Rainy,Low,High,None,Yellow
+Ashwem,Sunny,Low,High,Sharp Rocks,Yellow
+Candolim,Cloudy,Medium,High,None,Green
+Baga,Sunny,Low,High,Sharp Rocks,Yellow
+Chapora,Sunny,Low,High,None,Green
+Varca,Sunny,Medium,Low,None,Green
+Arambol,Rainy,Low,Low,None,Yellow
+Candolim,Sunny,High,High,None,Yellow
+Mandrem,Stormy,High,Low,None,Red
+Betalbatim,Cloudy,Low,High,None,Green
+Varca,Sunny,Medium,Low,Glass,Red
+Agonda,Cloudy,Medium,Low,None,Green
+Arambol,Stormy,High,Low,Sharp Rocks,Red
+Hollant,Stormy,High,High,None,Red
+Arambol,Rainy,High,High,None,Yellow
+Benaulim,Cloudy,Medium,Low,None,Green
+Colva,Sunny,Low,High,None,Green
+Varca,Cloudy,Medium,Low,Jellyfish,Yellow
+Baga,Stormy,Low,Low,None,Red
+Chapora,Cloudy,Medium,High,Sharp Rocks,Yellow
+Palolem,Sunny,Low,High,None,Green
+Varca,Rainy,Low,High,None,Yellow
+Palolem,Sunny,Medium,High,Sharp Rocks,Yellow
+Bogmalo,Sunny,Low,High,None,Green
+Majorda,Rainy,Medium,High,None,Yellow
+Cavelossim,Sunny,Medium,Low,None,Green
+Varca,Sunny,High,Low,None,Yellow
+Butterfly,Sunny,Low,High,Strong Currents,Red
+Colva,Sunny,Medium,High,Sharp Rocks,Yellow
+Galgibaga,Sunny,Low,High,None,Green
+Arambol,Sunny,Medium,High,None,Green
+Arambol,Sunny,Medium,High,Jellyfish,Yellow
+Talpona,Sunny,Medium,Low,None,Green
+Talpona,Cloudy,Medium,High,None,Green
+Patnem,Rainy,Medium,High,None,Yellow
+Benaulim,Rainy,Medium,High,Jellyfish,Red
+Kakolem,Sunny,Medium,Low,Sharp Rocks,Yellow
+Mobor,Rainy,Medium,Low,Sharp Rocks,Red
+Sinquerim,Sunny,Medium,Low,None,Green
+Cavelossim,Rainy,Low,Low,None,Yellow
+Majorda,Rainy,Low,High,None,Yellow
+Cavelossim,Rainy,High,High,Jellyfish,Red
+Talpona,Sunny,Low,High,Glass,Red
+Agonda,Sunny,High,Low,None,Yellow
+Querim,Sunny,Low,Low,None,Green
+Mobor,Rainy,High,High,None,Yellow
+Arambol,Sunny,Low,Low,None,Green
+Majorda,Cloudy,Medium,High,None,Green
+Ashwem,Sunny,High,High,None,Yellow
+Colomb,Cloudy,High,High,None,Yellow
+Baga,Sunny,High,Low,None,Yellow
+Sinquerim,Stormy,High,High,None,Red
+Hollant,Sunny,Low,Low,None,Green
+Baga,Stormy,High,High,Strong Currents,Red
+Arambol,Sunny,Medium,Low,None,Green
+Palolem,Rainy,Medium,Low,None,Yellow
+Bogmalo,Rainy,Medium,Low,Sharp Rocks,Red
+Majorda,Sunny,Low,Low,Glass,Red
+Butterfly,Rainy,High,Low,None,Yellow
+Morjim,Sunny,High,Low,Glass,Red
+Kakolem,Rainy,High,Low,None,Yellow
+Mandrem,Stormy,Medium,Low,None,Red
+Querim,Sunny,High,Low,None,Yellow
+Palolem,Cloudy,Medium,High,None,Green
+Sinquerim,Cloudy,Low,Low,None,Green
+Cavelossim,Sunny,Medium,Low,None,Green
+Chapora,Sunny,Medium,Low,Sharp Rocks,Yellow
+Chapora,Sunny,High,High,None,Yellow
+Vagator,Cloudy,Medium,Low,None,Green
+Kakolem,Stormy,Low,High,None,Red
+Mobor,Sunny,Medium,High,Strong Currents,Red
+Ashwem,Sunny,Medium,High,None,Green
+Cavelossim,Cloudy,Medium,High,None,Green
+Talpona,Rainy,Low,Low,None,Yellow
+Talpona,Rainy,Medium,High,None,Yellow
+Candolim,Sunny,Low,High,None,Green
+Sinquerim,Sunny,Low,Low,None,Green
+Galgibaga,Rainy,Low,Low,None,Yellow
+Mandrem,Cloudy,Low,High,Strong Currents,Red
+Bogmalo,Sunny,Low,Low,None,Green
+Miramar,Rainy,High,Low,None,Yellow
+Anjuna,Sunny,Medium,Low,None,Green
+Morjim,Sunny,Low,High,Sharp Rocks,Yellow
+Galgibaga,Cloudy,High,High,None,Yellow
+Querim,Cloudy,Medium,High,Sharp Rocks,Yellow
+Arambol,Cloudy,Medium,High,None,Green
+Mobor,Sunny,Medium,High,None,Green
+Benaulim,Sunny,Medium,High,None,Green
+Patnem,Cloudy,High,Low,None,Yellow
+Talpona,Sunny,Low,Low,None,Green
+Arambol,Cloudy,Low,High,None,Green
+Arambol,Sunny,Low,High,None,Green
+Talpona,Cloudy,High,High,None,Yellow
+Candolim,Sunny,Medium,High,None,Green
+Querim,Rainy,High,Low,None,Yellow
+Benaulim,Rainy,Medium,Low,None,Yellow
+Sinquerim,Sunny,Low,High,Strong Currents,Red
+Ashwem,Sunny,High,Low,None,Yellow
+Baga,Rainy,Medium,High,None,Yellow
+Miramar,Rainy,Low,High,None,Yellow
+Querim,Sunny,Medium,Low,Jellyfish,Yellow
+Varca,Cloudy,Medium,Low,None,Green
+Bogmalo,Stormy,Low,Low,None,Red
